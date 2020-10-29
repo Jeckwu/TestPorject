@@ -77,7 +77,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="Application.Test3">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -145,7 +145,7 @@
       <workItem from="1603846971356" duration="5306000" />
       <workItem from="1603857201486" duration="409000" />
       <workItem from="1603863992329" duration="4856000" />
-      <workItem from="1603939349906" duration="1259000" />
+      <workItem from="1603939349906" duration="3342000" />
     </task>
     <servers />
   </component>
@@ -185,10 +185,10 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state width="1416" height="200" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1603940409900" />
-    <state x="364" y="41" width="996" height="734" key="SettingsEditor" timestamp="1603868698683">
+    <state x="299" y="39" width="996" height="734" key="SettingsEditor" timestamp="1603964976483">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="364" y="41" width="996" height="734" key="SettingsEditor/0.0.1474.864@0.0.1474.864" timestamp="1603868698683" />
+    <state x="299" y="39" width="996" height="734" key="SettingsEditor/0.0.1474.864@0.0.1474.864" timestamp="1603964976483" />
     <state x="418" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1603846829054">
       <screen x="0" y="0" width="1474" height="864" />
     </state>

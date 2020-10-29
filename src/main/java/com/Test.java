@@ -14,10 +14,6 @@ public class Test {
         for (Object o : arrayList) {
             System.out.println(o);
         }
-
-
     }
-    private static final int SUM = 1;
-
-
+//    private static final int SUM = 1;
 }
